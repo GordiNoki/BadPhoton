@@ -11,5 +11,5 @@ Go to UserData folder in your game folder and open MelonPreferences.cfg
 Change AppId field to the one you copied earlier
 
 Congrats! You can play online now.
-To play with friends they will have to do the same steps.
+To play with friends they will have to do the same steps. They shouldn't create new Photon app, but instead use the same app id you have.
 ```
